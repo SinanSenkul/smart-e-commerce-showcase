@@ -1,5 +1,5 @@
 # Smart E-Commerce Showcase
-
+(Check it out on App Store: https://apps.apple.com/tr/app/smart-e-commerce-app/id6761670771?l=tr)
 Smart E-Commerce is a mobile marketplace app built with Expo and React Native. It lets users browse products, manage a cart, pay through Stripe PaymentSheet, list their own items for sale, and track buyer/seller deal activity in a dedicated workflow.
 
 This public repository is a portfolio showcase. The production source code is private to protect backend implementation details, deployment configuration, and payment infrastructure.
